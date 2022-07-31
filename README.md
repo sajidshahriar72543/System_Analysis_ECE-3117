@@ -17,6 +17,22 @@ RUET**
 
 ---
 
+## Chapters
+
+- [ ] Recognition of Need
+
+- [ ] Initial Feasibility Study
+
+- [ ] Information Collection
+
+- [ ] Feasibility Study
+
+- [ ] Input-Output and Form Design
+
+- [ ] Summary
+
+---
+
 ## Group Members:
 
 **S. M. Faizul Islam Fair** <br>

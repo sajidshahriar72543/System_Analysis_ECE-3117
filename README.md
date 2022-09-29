@@ -17,6 +17,22 @@ RUET**
 
 ---
 
+## Chapters
+
+- [ ] Recognition of Need
+
+- [ ] Initial Feasibility Study
+
+- [ ] Information Collection
+
+- [ ] Feasibility Study
+
+- [ ] Input-Output and Form Design
+
+- [ ] Summary
+
+---
+
 ## Group Members:
 
 **S. M. Faizul Islam Fair** <br>
@@ -35,3 +51,17 @@ Roll: 1810024<br>
 Roll: 1810025<br>
 
 ---
+
+## For every change follow this process:
+
+* ### git checkout main
+* ### git pull origin main **[main]**
+* ### git checkout (your branch)
+* ### git merge main **[your branch]**
+* ### (do your edits) **[your branch]**
+* ### git add --all **[your branch]**
+* ### git commit -m "(your branch)- (commit name)" **[your branch]**
+* ### git push origin (your branch) **[your branch]**
+* ### git checkout main **[main]**
+* ### git merge (your branch) **[main]**
+* ### git push origin main **[main]**

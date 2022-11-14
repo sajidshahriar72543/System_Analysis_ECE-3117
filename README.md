@@ -77,7 +77,6 @@ which BTCL acquired 11. BTCL provides two types of customer services,
   apply, only a dial-up modem is required. The charge is Tk.0.15/min
   (multi metering) and is included in the monthly phone bill. There is
   no registration, no connection fee, and no E-mail account required.
-  0101234,
 
 > User ID: btcl, Password: btcl.
 
@@ -96,9 +95,9 @@ which BTCL acquired 11. BTCL provides two types of customer services,
 >
 > 3\. DNS parking
 
-- **Gateway Service**\
-  1. International Gateway (IGW)\
-  2. Interconnection eXchange (ICX)\
+- **Gateway Service**
+  1. International Gateway (IGW)
+  2. Interconnection eXchange (ICX)
   3. International Internet Gateway (IIG)
 
 **1.3 Problem Identification**
@@ -112,7 +111,7 @@ which BTCL acquired 11. BTCL provides two types of customer services,
 **1.3.2 User's Problem:**
 
 User satisfaction should be the one of the prime goals of an
-organization. But BTCL can ot fulfill the user needs properly which is a
+organization. But BTCL can not fulfill the user needs properly which is a
 great bummer to their advance. The basic problems gathered from the
 users are as follows,
 
